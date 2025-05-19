@@ -4,6 +4,7 @@ export default (filepath, format) => {
   switch (format) {
     case 'json':
       return JSON.parse(filepath)
+    case 'yaml':
     case 'yml':
       return yaml.load(filepath)
     default:
