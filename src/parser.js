@@ -1,12 +1,12 @@
-import yaml from 'js-yaml';
+import yaml from 'js-yaml'
 
-export default (filepath, format) => { 
+export default (filepath, format) => {
   switch (format) {
     case 'json':
-      return JSON.parse(filepath);
+      return JSON.parse(filepath)
     case 'yml':
-      return yaml.load(filepath);
+      return yaml.load(filepath)
     default:
-      throw new Error(`Unsupported file format: ${format}`);
+      throw new Error(`Unsupported file format: ${format}`)
   }
-};
+}
