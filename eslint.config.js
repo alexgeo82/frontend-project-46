@@ -7,4 +7,5 @@ export default defineConfig([
   stylistic.configs.recommended,
   { files: ['**/*.{js,mjs,cjs}'], plugins: { js }, extends: ['js/recommended'] },
   { files: ['**/*.{js,mjs,cjs}'], languageOptions: { globals: globals.node } },
+  { files: ['**/*.{js,mjs,cjs}'], languageOptions: { globals: globals.jest } },
 ])

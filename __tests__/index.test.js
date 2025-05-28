@@ -13,6 +13,5 @@ test(`stylish`, () => {
   const secondFile = getFixturePath(`file2.json`)
   const expected = readFixtureFile(`stylish.txt`)
   const actual = gendiff(firstFile, secondFile, `stylish`)
-  console.log(actual);
   expect(actual).toEqual(expected)
 })
