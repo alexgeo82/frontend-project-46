@@ -5,5 +5,6 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=alexgeo82_frontend-project-46&metric=coverage)](https://sonarcloud.io/summary/new_code?id=alexgeo82_frontend-project-46)
 
 [Step 4](https://asciinema.org/a/05CF8fOxQSPqHGvfmh0MZl9h1)
-[Step 5](https://asciinema.org/a/uyaWrlJWuJQX5M9LakQJx3YwT)
-[Step 6](https://asciinema.org/a/tdBzLdJCCWk7wvobdJBvHs9L5)
+[Step 6](https://asciinema.org/a/uyaWrlJWuJQX5M9LakQJx3YwT)
+[Step 7](https://asciinema.org/a/tdBzLdJCCWk7wvobdJBvHs9L5)
+[Step 8](https://asciinema.org/a/LGg2u8OgeJ8gmZK0sxY9w15Ni)

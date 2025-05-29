@@ -1,5 +1,11 @@
 import stylish from './stylish.js'
+import plain from './plain.js'
 
-export default (data) => {
-  return stylish(data)
+export default (data, outputFormat = 'stylish') => {
+  switch (outputFormat) {
+    case 'plain':
+      return plain(data)
+    default:
+      return stylish(data)
+  }
 }
