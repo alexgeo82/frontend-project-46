@@ -8,3 +8,4 @@
 [Step 6](https://asciinema.org/a/uyaWrlJWuJQX5M9LakQJx3YwT)
 [Step 7](https://asciinema.org/a/tdBzLdJCCWk7wvobdJBvHs9L5)
 [Step 8](https://asciinema.org/a/LGg2u8OgeJ8gmZK0sxY9w15Ni)
+[Step 9](https://asciinema.org/a/YDtJRANd7GuLs1b2DRbCGAC8p)

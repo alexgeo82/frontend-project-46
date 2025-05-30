@@ -13,6 +13,8 @@ const cases = [
   ['yml', 'stylish'],
   ['json', 'plain'],
   ['yml', 'plain'],
+  ['json', 'json'],
+  ['yml', 'json'],
 ]
 
 describe.each(cases)('gendiff', (extention, format) => {
